@@ -1,0 +1,13 @@
+//
+//  CollectionViewController.h
+//  ProgressPrac
+//
+//  Created by Block on 2017/12/8.
+//  Copyright © 2017年 Block. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface CollectionViewController : UICollectionViewController
+
+@end
